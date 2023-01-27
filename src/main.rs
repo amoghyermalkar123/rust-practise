@@ -4,6 +4,7 @@ mod lifetime_advanced;
 mod enum_ex;
 mod box_ex;
 mod traits_ex;
+mod pointers_ex;
 
 fn main() {
     let v1 = vec![11u8, 22];
